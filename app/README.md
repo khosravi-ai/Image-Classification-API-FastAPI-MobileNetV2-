@@ -156,4 +156,3 @@ Hossein Khosravi
 
 ---
 Enjoy using the API!
-````
